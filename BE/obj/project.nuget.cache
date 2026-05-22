@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mfhTMqa5nrE=",
+  "dgSpecHash": "+fBRY0Nt8Js=",
   "success": true,
-  "projectFilePath": "C:\\GAME\\PRN222\\Chat-Box\\BE\\ChatBox.Api.csproj",
+  "projectFilePath": "c:\\GAME\\PRN222\\Chat-Box\\BE\\ChatBox.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ThienNSH_SE190320\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ThienNSH_SE190320\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
